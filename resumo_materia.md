@@ -121,6 +121,7 @@ Nota: resumo feito a partir de uma síntese automática do texto, não de leitur
 
 ## 5. Ciberataques (CP1.3)
 - **Definição:** tentativas orquestradas contra sistemas, redes ou dispositivos para explorar, comprometer, manipular ou danificar informação/dados. Incluem violação (com ou sem sucesso) das defesas para expor informação sensível, interromper serviços, disseminar malware.
+- **Nota do professor (via Rodrigo, 13/10/2026): para já, nos ciberataques só são exigidas as definições**, não as defesas. Foca-te em saber definir cada um com uma frase e um exemplo.
 - **Quem os orquestra:** indivíduos (com ou sem formação), grupos organizados (motivações ideológicas, políticas, religiosas, financeiras), **hackers éticos** (procuram vulnerabilidades para tornar o sistema mais seguro), **governos** (políticos, económicos, informação classificada).
 
 | Ataque | Ideia-chave |
